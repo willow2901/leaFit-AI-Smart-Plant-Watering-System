@@ -26,5 +26,5 @@ You can view our final presentation [here](./leafitbackgroundslides.pptx).
 
 ## ✍️ Authors
 
-Saville Atkins II and Team  
+Saville Atkins II, Luis Mercado, Anthony Iwejuo, Rachnicha Rojjhanarittikorn, Julian Pitts
 Kennesaw State University, 2025
