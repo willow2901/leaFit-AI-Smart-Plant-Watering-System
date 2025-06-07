@@ -22,7 +22,7 @@ leaFIT is a senior project developed to automate plant maintenance using embedde
 
 ## 📷 Demo & Slides
 
-You can view our final presentation [here](Spring2025_Leafits FinalDemo.pdf)
+You can view our final presentation [here]("Spring2025_Leafits FinalDemo.pdf")
 
 
 ## ✍️ Authors
