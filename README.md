@@ -20,10 +20,14 @@ leaFIT is a senior project developed to automate plant maintenance using embedde
 - **Languages**: Embedded C, Python
 - **Other Tools**: UART debugging, BOM documentation
 
-## 📷 Demo & Slides
+## 📷 Slides & Images
 
 You can view our final presentation [here](https://github.com/user-attachments/files/20636178/Spring2025_Leafits.FinalDemo.pdf)
 
+<img src="https://github.com/user-attachments/assets/61dde123-1ee9-44af-bbb0-71fe02906a3b" width="200"/>
+<img src="https://github.com/user-attachments/assets/d40ae54e-81af-463c-a2c3-4b8597454b18" width="200"/>
+<img src="https://github.com/user-attachments/assets/cb09accf-790a-42e7-a4f7-c94e198e0858" width="200"/>
+<img src="https://github.com/user-attachments/assets/ef5afe69-225d-4dd3-9323-3a7b0baeabb7" width="200"/>
 
 
 
